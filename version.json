@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/ketoup55-star/switchbot-ctl/releases/latest/download/switchbot.apk",
+  "notes": "· 기기에 비밀번호를 직접 걸 수 있는 기능 추가\n· 자동 업데이트 기능 추가"
+}
