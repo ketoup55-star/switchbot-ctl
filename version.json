@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/ketoup55-star/switchbot-ctl/releases/latest/download/switchbot.apk",
-  "notes": "· '누르기' 버튼 글자가 한 줄로 나오도록 수정"
+  "notes": "· 게이트웨이(허브) 지원 — 폰 블루투스가 안 닿는 방(노부부방 등)의 기기도 제어"
 }
