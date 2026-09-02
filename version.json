@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.3",
+  "versionCode": 9,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/ketoup55-star/switchbot-ctl/releases/latest/download/switchbot.apk",
-  "notes": "· 넥스투 연결이 한 번 실패해도 자동으로 다시 시도(최대 3회)"
+  "notes": "· 넷플릭스 씬에 스마트 콘센트(Tapo) 추가 — 켜기: 콘센트 켜짐→넥스투→TV / 끄기: 넥스투→TV→콘센트 꺼짐\n· 콘센트 로그인은 한 번만 넣으면 가족 폰에도 공유됨"
 }
