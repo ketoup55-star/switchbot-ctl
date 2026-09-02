@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.2",
+  "versionCode": 8,
+  "versionName": "1.4.3",
   "apkUrl": "https://github.com/ketoup55-star/switchbot-ctl/releases/latest/download/switchbot.apk",
-  "notes": "· 넷플릭스 켜기/끄기 속도 개선 (전환이 훨씬 빨라짐)"
+  "notes": "· 넥스투 연결이 한 번 실패해도 자동으로 다시 시도(최대 3회)"
 }
