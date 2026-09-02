@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
+  "versionCode": 7,
+  "versionName": "1.4.2",
   "apkUrl": "https://github.com/ketoup55-star/switchbot-ctl/releases/latest/download/switchbot.apk",
-  "notes": "· 넷플릭스 씬 카드 추가 (거실 TV) · 기기 목록 표시/스크롤 수정"
+  "notes": "· 넷플릭스 켜기/끄기 속도 개선 (전환이 훨씬 빨라짐)"
 }
